@@ -35,9 +35,11 @@ The analysis responds to 10 specific business requests submitted by the data ana
 ----
 
 ## Folder Structure
+- *MYSQL_Queries* - All 10 numbered query files written in MySQL, following UPPERCASE keywords and lowercase identifiers convention
+- *PPT-Color-Palette* It includes the Colors used in the presentation slides 
 - *Raw_Data* - The actual database files that I used to build the project.
 - *Report* - The finished presentation in PDF format, slide-by-slide across all 10 requests
-- *Sql_Query* All 10 numbered query files written in MySQL, following UPPERCASE keywords and lowercase identifiers convention
+
 
 ----
 
