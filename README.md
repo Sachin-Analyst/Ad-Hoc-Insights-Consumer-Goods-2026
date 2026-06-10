@@ -39,6 +39,7 @@ The analysis responds to 10 specific business requests submitted by the data ana
 - *PPT-Color-Palette* It includes the Colors used in the presentation slides 
 - *Raw_Data* - The actual database files that I used to build the project.
 - *Report* - The finished presentation in PDF format, slide-by-slide across all 10 requests
+- *SQL-Challenge_docs* - It includes the 10 requests from the team codebasics to build the project
 
 
 ----
