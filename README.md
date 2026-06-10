@@ -1,0 +1,1 @@
+# consumer-goods-sql-insights-2026
