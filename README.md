@@ -78,7 +78,7 @@ To explore or modify this Excel project:
 
 ## Visual Insights 
 
-Video Presentation Link — (to be added after upload)
+Video Presentation Link — https://youtu.be/47fAcyENXIA?si=7XPIdLowkVNQbzr7
 
 Resume Project Challenge Link: https://codebasics.io/challenges/codebasics-resume-project-challenge/7
 
