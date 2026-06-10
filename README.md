@@ -78,7 +78,7 @@ To explore or modify this Excel project:
 
 Video Presentation Link — (to be added after upload)
 
-Resume Project Challenge Link: https://codebasics.io/challenges/codebasics-resume-project-challenge/4
+Resume Project Challenge Link: https://codebasics.io/challenges/codebasics-resume-project-challenge/7
 
 ----
 ## License
