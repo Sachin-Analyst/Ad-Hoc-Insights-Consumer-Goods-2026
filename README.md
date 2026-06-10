@@ -1,4 +1,4 @@
-# consumer-goods-sql-insights-2026
+# Ad-Hoc-Insights-Consumer-Goods-2026
 
 Welcome to my Ad Hoc Insights project. This repository presents a SQL-based analytical solution built for AtliQ Hardware, a leading computer hardware manufacturer. The project addresses a real business need — enabling management to make quick, data-informed decisions through ad hoc analysis. Using MySQL for querying and Power BI for visualization, this challenge covers 10 business requests spanning product performance, sales trends, channel contribution, and market coverage
 
