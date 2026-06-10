@@ -1,0 +1,44 @@
+# Overall Design Pattern
+
+Purple : #36013f
+Yellow : #ffde59
+Pastel Purple : #bca5e3
+
+----
+Specific Country Representation in Single Color 
+
+North America | NA | 
+1. USA : #3c86ff
+2. CANADA : #dc3f49
+
+Latin America | LATAM |
+1. BRAZIL : #ffdf00
+2. CHILE : #d52b1e
+3. COLUMBIA : #fcd116 
+4. MEXICO : #006847
+
+European Union | EU |
+1. AUSTRIA : #ed2939
+2. FRANCE : #002395
+3. GERMANY : #000000
+4. ITALY : #004b87
+5. NETHERLANDS : #f14300
+6. NORWAY : #ba0c2f
+7. POLAND : #dc143c
+8. PORTUGAL : #ff0000
+9. SPAIN : #c10a26
+10. SWEDEN : #006aa7
+11. UNITED KINGDOM : #00247d
+
+Asia Pacific | APAC |
+1. Australia : #ffcd00
+2. Bangladesh : #006a4e
+3. China : #ee1c25
+4. India : #ff9933
+5. Indonesia : #ff0000
+6. Japan : #bc002d
+7. New Zealand : #000000
+8. Pakistan : #115e3b
+9. Philippines : #0038a8
+10 South Korea : #003478
+
