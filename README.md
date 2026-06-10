@@ -7,6 +7,7 @@ Welcome to my Ad Hoc Insights project. This repository presents a SQL-based anal
 ## Table of Contents
 - [Introduction](#introduction)  
 - [Project Description](#project-description)
+- [Database Schema](#database-schema)
 - [Folder Structure](#Folder-Structure)
 - [Key Features](#Key-Features)  
 - [Installation](#installation)  
@@ -31,6 +32,8 @@ Welcome to my Ad Hoc Insights project. This repository presents a SQL-based anal
 This repository contains a structured ad hoc analysis suite built on AtliQ Hardware's transactional database. The company operates across four global regions — APAC, EU, NA, and LATAM — with products spanning three core divisions: Peripherals & Accessories (P & A), Personal Computer (PC), and Networking & Storage (N & S).
 The analysis responds to 10 specific business requests submitted by the data analytics director, covering fiscal year comparisons, segment-wise product growth, discount strategy, gross sales trends, and channel contribution. Each request includes the SQL query, result set, Power BI visualization, and actionable business insight.
 
+----
+## Database Schema
 
 ----
 
