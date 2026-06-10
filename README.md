@@ -17,7 +17,7 @@ Welcome to my Ad Hoc Insights project. This repository presents a SQL-based anal
 ## Introduction
 
 --- 
-*Project Title:* Ad Hoc Insights — Consumer Goods Domain
+*Project Title:* Ad Hoc Insights - Consumer Goods Domain
 
 *Created By:* [Sachin-Analyst](https://github.com/Sachin-Analyst)  
 
