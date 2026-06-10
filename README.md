@@ -37,7 +37,7 @@ The analysis responds to 10 specific business requests submitted by the data ana
 
 ### The dataset follows a star schema
 
-[ER_Diagram](Report/ER_Diagram.png)
+![ER_Diagram](Report/ER_Diagram.png)
 ----
 
 ## Folder Structure
