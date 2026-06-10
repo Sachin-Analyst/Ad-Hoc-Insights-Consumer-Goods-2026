@@ -34,7 +34,7 @@ The analysis responds to 10 specific business requests submitted by the data ana
 
 ----
 ## Database Schema
-[ER_Diagram]Report/ER_Diagram.png
+[ER_Diagram](Report/ER_Diagram.png)
 ----
 
 ## Folder Structure
