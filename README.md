@@ -35,7 +35,6 @@ The analysis responds to 10 specific business requests submitted by the data ana
 ----
 ## Database Schema
 
-### The dataset follows a star schema
 
 ![ER_Diagram](Report/ER_Diagram.png)
 ----
