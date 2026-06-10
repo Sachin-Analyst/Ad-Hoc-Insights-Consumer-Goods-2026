@@ -18,9 +18,13 @@ Welcome to my Ad Hoc Insights project. This repository presents a SQL-based anal
 
 --- 
 *Project Title:* Ad Hoc Insights — Consumer Goods Domain
+
 *Created By:* [Sachin-Analyst](https://github.com/Sachin-Analyst)  
+
 *Tools Used:*  Excel , Power BI
+
 *Focus Area:*  Market Coverage Analysis, Product Growth Trends, Sales Channel Performance, Manufacturing Cost Insights
+
 ----
 
 ## Project Description
